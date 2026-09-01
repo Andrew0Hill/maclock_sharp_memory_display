@@ -16,7 +16,7 @@ Finding a e-paper screen turned out to be a challenge. Most available e-paper di
 
 I ended up stumbling upon the [Adafruit SHARP Memory Display Breakout - 2.7" 400x240 Monochrome](https://www.adafruit.com/product/4694?srsltid=AfmBOop2fba985qKqFtM6lWqFD_dQ7sxt8O5NbKmIlSQCmeBmKEhnr0H).
 
-I had never heard of this type of display before, but it has a similar viewing experience to e-paper displays, and (more importantly) it fits in the Maclock!
+I had never heard of this type of 'memory' display before, but it has a similar viewing experience to e-paper displays, and (more importantly) it fits in the Maclock!
 
 I desinged two 3D-printable parts which can be used to mount this screen nicely into the Maclock housing with no modifications required (other than disassembly).
 
@@ -26,8 +26,10 @@ I desinged two 3D-printable parts which can be used to mount this screen nicely 
 freecad/
 ├─ SharpDisplayV10.FCStd            - The FreeCAD project containing both parts
 stl/
-├─ SharpDisplayV10-Bracket.stl      - The bracket which mounts the screen to the Maclock frame.
-├─ SharpDisplayV10-ScreenCover.stl  - The screen cover which fills the gaps on the screen to give a clean look.
+├─ SharpDisplayV10-Bracket.stl      - The bracket which mounts the screen 
+│                                     to the Maclock frame.
+├─ SharpDisplayV10-ScreenCover.stl  - The screen cover which fills the gaps 
+                                      on the screen to give a clean look.
 ```
 
 Apologies in advance to any profesional CAD users who venture into the FreeCAD project.
